@@ -356,6 +356,7 @@ input:focus {
     }
     .bottombar {
         position: relative;
+        gap: 15px;
     }
     .top-header {
         overflow: initial;

@@ -176,7 +176,6 @@ input:focus {
 
 .bottombar-right {
     gap: 10px;
-    margin-left: 10px;
 }
 
 
@@ -394,5 +393,8 @@ input:focus {
         border: 1px solid #ee008e17;
         padding: 10px;
         line-height: 2;
+    }
+    .bottombar-right {
+        padding-left: 10px;
     }
 }

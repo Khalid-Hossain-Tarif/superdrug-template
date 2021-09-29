@@ -125,6 +125,10 @@ input:focus {
 
 }
 
+.cart a:hover i:after {
+    background: #fff;
+}
+
 .bottombar-left .menu a {
     line-height: 60px;
     position: relative;
